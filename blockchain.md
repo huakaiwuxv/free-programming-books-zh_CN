@@ -1,1 +1,1 @@
-[node.js开发区块链](https://github.com/imfly/bitcoin-on-nodejs)
+[node.js开发区块链](http://bitcoin-on-nodejs.ebookchain.org/)
